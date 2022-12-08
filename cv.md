@@ -19,3 +19,12 @@ function multiply(a, b){
   return a * b
 }
 ```
+***
+## Experience
+***
+## Education
+* **University:** Belarussian State University, Faculty of Journalism
+* **Courses:** Community English School 
+***
+## English
+**B2**
