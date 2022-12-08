@@ -13,3 +13,9 @@ I have excellent soft skills, I can work hard and give all my passion to a proje
 * Vision Studio Code
 * Microsoft Office
 ***
+## Code Example
+```
+function multiply(a, b){
+  return a * b
+}
+```
