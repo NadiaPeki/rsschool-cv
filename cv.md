@@ -26,5 +26,12 @@ function multiply(a, b){
 * **University:** Belarussian State University, Faculty of Journalism
 * **Courses:** Community English School 
 ***
+## Belarussian
+**Native**
+## Russian
+**Native**
 ## English
 **B2**
+## Polish
+**A2**
+
