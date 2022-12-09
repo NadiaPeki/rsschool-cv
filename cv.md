@@ -5,6 +5,7 @@
 * **Email:** napekarskaya@gmail.com
 * **GitHub:** [GitHub](https://github.com/NadiaPeki)
 * **Discord:** NadiaPeki (@nadiapeki)
+    
 ***
 ## About me
 I have excellent soft skills, I can work hard and give all my passion to a project. Good team player. I am fast-study person with kindness, easy-going personality.
@@ -13,6 +14,7 @@ I have excellent soft skills, I can work hard and give all my passion to a proje
 * Git
 * Vision Studio Code
 * Microsoft Office
+    
 ***
 ## Code Example
 ```
@@ -26,6 +28,7 @@ function multiply(a, b){
 ## Education
 * **University:** Belarussian State University, Faculty of Journalism
 * **Courses:** Community English School 
+    
 ***
 ## Belarussian
 **Native**
