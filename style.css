@@ -17,9 +17,14 @@ container {
   max-width: 1440px;
   margin: 0 auto;
 }
+header {
+  display: block;
+}
+.header {
+  color: gray;
+}
 .nav-list {
   display: flex;
-  justify-content: flex-end;
   align-items: center;
 }
 html {
@@ -32,6 +37,16 @@ html {
   padding: 0 20px;
   line-height: 50px;
 }
+.nav-link {
+  text-decoration: none;
+}
+.nav-link {
+  color: blueviolet;
+}
+.nav-link {
+  font-size: 24px;
+}
+
 
 
 
