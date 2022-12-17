@@ -20,7 +20,7 @@ container {
 header {
   display: block;
 }
-.header {
+header {
   color: gray;
 }
 .nav-list {
