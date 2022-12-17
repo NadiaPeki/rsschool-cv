@@ -7,7 +7,7 @@
 * **Discord:** NadiaPeki (@nadiapeki)
     
 ***
-## About me
+## Summary
 I have excellent soft skills, I can work hard and give all my passion to a project. Good team player. I am fast-study person with kindness, easy-going personality.
 ***
 ## Skils
@@ -22,8 +22,6 @@ function multiply(a, b){
   return a * b
 }
 ```
-***
-## Experience
 ***
 ## Education
 * **University:** Belarussian State University, Faculty of Journalism
