@@ -12,16 +12,19 @@ body {
 container {
   max-width: 1440px;
   margin: 0 auto;
-}
-container {
-  max-width: 1440px;
-  margin: 0 auto;
+  min-height: 50px;
 }
 header {
   display: block;
 }
 header {
-  color: gray;
+  background-color: cornflowerblue;
+}
+div {
+  display: block;
+}
+.container header-container {
+  background-color: cornflowerblue;
 }
 .nav-list {
   display: flex;
@@ -46,7 +49,17 @@ html {
 .nav-link {
   font-size: 24px;
 }
-
-
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 50px 30px 35px;
+  border-bottom: 15px solid #9400d3;
+}
+.section-title {
+  font-size: 32px;
+  color:darkslateblue
+  font-weight: bold;
+}
 
 
