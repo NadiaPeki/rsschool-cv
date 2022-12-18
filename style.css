@@ -84,4 +84,11 @@ html {
     font-size: 32px;
     color:blueviolet;
   }
-
+.summary {
+  margin-bottom: 10px;
+    margin-left: 45px;
+}
+.section-title-summary {
+  font-size: 32px;
+  color:blueviolet;
+}
