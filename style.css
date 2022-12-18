@@ -23,7 +23,7 @@ header {
 div {
   display: block;
 }
-.container header-container {
+.container-header-container {
   background-color:aquamarine;
 }
 .nav-list {
@@ -76,6 +76,9 @@ html {
 .text-decoration-none {
   text-decoration: none;
    }
-  
+  .section-title-skills {
+    font-size: 32px;
+    color:blueviolet; 
+  }
 
 
