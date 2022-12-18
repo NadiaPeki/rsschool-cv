@@ -22,9 +22,7 @@ header {
 div {
   display: block;
 }
-.container-header-container {
-  background-color:aquamarine;
-}
+
 .nav-list {
   display: flex;
   align-items: center;
@@ -78,8 +76,8 @@ html {
    }
   .section-title-skills {
     font-size: 32px;
-    color:blueviolet; 
-    margin-bottom: 10px;
+    color:blueviolet;
+    margin-bottom: 10px; 
     margin-left: 45px;
   }
   .section-title-languages {
@@ -92,12 +90,16 @@ html {
 .section-title-summary {
   font-size: 32px;
     color:blueviolet;
+    margin-bottom: 10px;
+    margin-left: 45px;
 }
 
 
 .section-title-education {
   font-size: 32px;
   color:blueviolet;
+  margin-bottom: 10px;
+    margin-left: 45px;
 }
 .main-container {
   display: flex;
