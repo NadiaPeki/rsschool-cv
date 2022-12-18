@@ -85,3 +85,12 @@ html {
     width: 100%;
   }
 }
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  font-size: 0.8rem;
+  color:blueviolet;
+  background-color:aquamarine;
+}
