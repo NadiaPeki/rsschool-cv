@@ -12,7 +12,6 @@ body {
 container {
   max-width: 1440px;
   margin: 0 auto;
-  min-height: 50px;
 }
 header {
   display: block;
@@ -70,9 +69,6 @@ html {
     margin-left: 45px;
 }
 
-.container-main-contanier {
-  margin: 20px 30px 20px 20px;
-}
 .section-list {
   list-style: none;
   color:indigo;
@@ -98,10 +94,6 @@ html {
     color:blueviolet;
 }
 
-.right-column {
-  width: 58%;
-  padding: 40px;
-}
 
 .section-title-education {
   font-size: 32px;
