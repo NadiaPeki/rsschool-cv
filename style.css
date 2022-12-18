@@ -77,15 +77,18 @@ html {
 }
 
 .section {
-  width: 50%;
+  width: 100%;
 }
 
 @media (max-width: 768px) {
   .section {
     width: 100%;
   }
+  footer {
+    display: block;
+  }
 }
-footer {
+.footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
