@@ -59,12 +59,8 @@ html {
   font-size: 40px;
   color:darkslateblue;
   font-weight: bold;
-}
-.section-title-contacts {
-  font-size: 32px;
-  color:blueviolet;
-  margin-bottom: 10px;
-    margin-left: 45px;
+   margin-bottom: 10px;
+   margin-left: 45px;
 }
 
 .section-list {
@@ -74,33 +70,7 @@ html {
 .text-decoration-none {
   text-decoration: none;
    }
-  .section-title-skills {
-    font-size: 32px;
-    color:blueviolet;
-    margin-bottom: 10px; 
-    margin-left: 45px;
-  }
-  .section-title-languages {
-    font-size: 32px;
-    color:blueviolet;
-    margin-bottom: 10px;
-    margin-left: 45px;
-  }
-  
-.section-title-summary {
-  font-size: 32px;
-    color:blueviolet;
-    margin-bottom: 10px;
-    margin-left: 45px;
-}
 
-
-.section-title-education {
-  font-size: 32px;
-  color:blueviolet;
-  margin-bottom: 10px;
-    margin-left: 45px;
-}
 .main-container {
   display: flex;
   flex-wrap: wrap;
@@ -109,12 +79,7 @@ html {
 .section {
   width: 50%;
 }
-.section-title-code {
-  font-size: 32px;
-  color:blueviolet;
-  margin-bottom: 10px;
-    margin-left: 45px;
-}
+
 @media (max-width: 768px) {
   .section {
     width: 100%;
