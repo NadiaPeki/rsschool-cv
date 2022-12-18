@@ -57,12 +57,17 @@ html {
   border-bottom: 15px solid #9400d3;
 }
 .section-title {
-  font-size: 32px;
+  font-size: 40px;
   color:darkslateblue;
   font-weight: bold;
 }
-.container main-contanier {
-  margin: 20px 30px;
+.section-title-contacts {
+  font-size: 32px;
+  color:blueviolet;
+}
+
+.container-main-contanier {
+  margin: 20px 30px 20px 20px;
 }
 .section-list {
   list-style: none;
@@ -70,7 +75,7 @@ html {
 }
 .text-decoration-none {
   text-decoration: none;
-}
+   }
   
 
 
