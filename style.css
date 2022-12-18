@@ -64,6 +64,11 @@ html {
 .container main-contanier {
   margin: 20px 30px;
 }
+.section-list {
+  list-style: none;
+  text-decoration: none;
+  color:indigo;
+}
   
 
 
