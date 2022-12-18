@@ -66,14 +66,16 @@ html {
   color:blueviolet;
 }
 
-.container main-contanier {
+.container-main-contanier {
   margin: 20px 30px 20px 20px;
 }
 .section-list {
   list-style: none;
   color:indigo;
 }
-
+.text-decoration-none {
+  text-decoration: none;
+   }
   
 
 
